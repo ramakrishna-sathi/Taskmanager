@@ -36,3 +36,43 @@
     transform: rotate(360deg);
   }
 }
+.add_btn{
+  text-align: right;
+}
+
+.container{
+  overflow: auto;
+}
+
+.left_view h3{
+  font-size: 21px;
+}
+
+.left_view p{
+  font-weight: 600;
+}
+
+.left_view span{
+  font-weight: 400;
+}
+
+.right_view p{
+  font-weight: 600;
+}
+
+
+.right_view span{
+  font-weight: 400;
+}
+.white_btn {
+	margin-left: auto;
+	border: none;
+	outline: none;
+	padding: 12px 0;
+	background-color: white;
+	border-radius: 20px;
+	width: 120px;
+	font-weight: bold;
+	font-size: 14px;
+	cursor: pointer;
+    margin-right: 20px;}
